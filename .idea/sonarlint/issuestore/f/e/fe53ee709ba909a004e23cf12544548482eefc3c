@@ -1,0 +1,46 @@
+
+_
+java:S11924"IDefine a constant instead of duplicating this literal "Error: " 10 times.(äìÎÆ
+2
+java:S1643/"Use a StringBuilder instead.(¡îÚ‹
+@	java:S106!"+Replace this use of System.out by a logger.(™¶Ğ×
+U
+java:S1118*":Add a private constructor to hide the implicit public one.(€‡¹Îüÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(äìÎÆ
+U
+java:S11189":Add a private constructor to hide the implicit public one.(—Óÿìıÿÿÿÿ
+@	java:S106?"+Replace this use of System.out by a logger.(äìÎÆ
+P
+java:S1118D":Add a private constructor to hide the implicit public one.(Êƒç¿
+@	java:S106G"+Replace this use of System.out by a logger.(Õ
+@	java:S106I"+Replace this use of System.out by a logger.(äìÎÆ
+P
+java:S1118N":Add a private constructor to hide the implicit public one.(×ûÀ
+?	java:S106T"+Replace this use of System.out by a logger.(³¬·~
+@	java:S106Z"+Replace this use of System.out by a logger.(äìÎÆ
+?	java:S106w"+Replace this use of System.out by a logger.(§‚â7
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ìêÕıÿÿÿÿ
+A	java:S106†"+Replace this use of System.out by a logger.(äìÎÆ
+V
+java:S1118‹":Add a private constructor to hide the implicit public one.(€¯ÒÑşÿÿÿÿ
+A	java:S106’"+Replace this use of System.out by a logger.(äìÎÆ
+P
+java:S1118—":Add a private constructor to hide the implicit public one.(ı¿°
+A	java:S106"+Replace this use of System.out by a logger.(äìÎÆ
+V
+java:S1118£":Add a private constructor to hide the implicit public one.(ÓÁÄûÿÿÿÿ
+A	java:S106¬"+Replace this use of System.out by a logger.(äìÎÆ
+V
+java:S1118±":Add a private constructor to hide the implicit public one.(°¨¤ìÿÿÿÿÿ
+F	java:S106¶"+Replace this use of System.out by a logger.(ã×¥øùÿÿÿÿ
+A	java:S106¸"+Replace this use of System.out by a logger.(äìÎÆ
+F	java:S106Í"+Replace this use of System.out by a logger.(Æ‡¯‚ùÿÿÿÿ
+Q
+java:S1118Õ":Add a private constructor to hide the implicit public one.(Œ¨Ò‘
+A	java:S106ß"+Replace this use of System.out by a logger.(äìÎÆ
+Q
+java:S1118ä":Add a private constructor to hide the implicit public one.(ÑÃÙô
+
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘¾“µûÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(Âª»ˆúÿÿÿÿ

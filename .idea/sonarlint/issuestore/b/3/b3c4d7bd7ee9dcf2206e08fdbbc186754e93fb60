@@ -1,0 +1,27 @@
+
+„
+java:S1319"nThe type of "stockPrices" should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ÃŞİ§
+ˆ
+java:S1319 "sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(ˆÍÌn
+
+java:S13190"sThe return type of this method should be an interface such as "SortedMap" rather than the implementation "TreeMap".(í¯ÈÆûÿÿÿÿ
+
+java:S1319m"tThe type of "recommendedStockList" should be an interface such as "List" rather than the implementation "ArrayList".(Ğ•¹ÿÿÿÿÿ
+‰
+java:S1319"rThe type of "stockCollection" should be an interface such as "SortedMap" rather than the implementation "TreeMap".(âğøì
+‡
+java:S1319›"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„²ì¿
+‹
+java:S1319Ÿ"tThe type of "recommendedStockList" should be an interface such as "List" rather than the implementation "ArrayList".(æ»Ñî
+g
+java:S2095:"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ĞšÜïúÿÿÿÿ
+6
+java:S2885" Make "sdf" an instance variable.(‘ä²¡
+@	java:S106R"+Replace this use of System.out by a logger.(äìÎÆ
+Y
+java:S1117ƒ"=Rename "stockName" which hides the field declared at line 90.(—áüÿÿÿÿ
+V
+java:S1117„"?Rename "latestPrice" which hides the field declared at line 91.(ï©ƒì
+e
+java:S1117"IRename "recommendedStockList" which hides the field declared at line 139.(¥‡½Àüÿÿÿÿ
+A	java:S106¶"+Replace this use of System.out by a logger.(¢àóÄ

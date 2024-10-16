@@ -1,0 +1,8 @@
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"49900.00"}]}
+{"stocks":[],"accounts":[{"currencyName":"USD","amount":"50000.00"}]}
+{"stocksToBuy":["WMT","V","TMUS","T","PG","NVDA","NFLX","MSFT","META","KO","JPM","GOOGL","GOOG","CSCO","COST","BAC","AMZN","ADBE","ABNB"]}
+{"stocks":[{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"44223.85"}]}
+{"stocks":[{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"44025.10"}]}
+{"stocks":[{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"12423.85"},{"currencyName":"EUR","amount":"20000.00"}]}
+{"stocks":[{"stockName":"ADBE","amount":10}],"accounts":[{"currencyName":"USD","amount":"44025.10"}]}
+Insufficient amount in account for buying premium option
